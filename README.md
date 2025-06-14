@@ -19,3 +19,5 @@
 - [LinkedIn](none)
 - [Portfolio](none)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenEdenIV)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldenEdenIV&show_icons=true)
