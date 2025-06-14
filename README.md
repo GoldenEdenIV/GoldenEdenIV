@@ -9,7 +9,7 @@
 
 ## 💼 Projects
 - [Project 1](https://github.com/ASTRO-SO): Astrology and numerology calculator website. Using HTML, TailwindCSS, JavaScript.
-- [Project 2](https://github.com/WEBSITE-QU-N-LI-BAN-HANG-CONG-NGH): E-commerce shop - Group Project. My work there: Frontend, JavaScript, CSS.
+- [Project 2](https://github.com/WEBSITE-QU-N-LI-BAN-HANG-CONG-NGH): E-commerce shop - Group Project. Mainly frontend.
 
 ## 📚 Currently Learning
 - Java
