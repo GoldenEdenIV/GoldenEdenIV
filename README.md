@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Trần Đoàn Đức Tài!
 
-<!--
-**GoldenEdenIV/GoldenEdenIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student passionate about software development and technology.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Languages: JavaScript, Python, C++
+- Tools: VSCode, Git, Figma, Postman
+- Frameworks: React, Node.js, Express
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+- [Project 1](https://github.com/ASTRO-SO): Astrology and numerology calculator website. Using HTML, TailwindCSS, JavaScript.
+- [Project 2](https://github.com/WEBSITE-QU-N-LI-BAN-HANG-CONG-NGH): E-commerce shop - Group Project. My work there: Frontend, JavaScript, CSS.
+
+## 📚 Currently Learning
+- Java
+- JavaScript
+
+## 🌐 Connect with me
+- [LinkedIn](none)
+- [Portfolio](none)
+
