@@ -1,8 +1,8 @@
 # 👋 Xin chào, mình là Trần Đoàn Đức Tài!
 
-🎓 Sinh viên năm 4 – **Kỹ thuật Phần mềm** (Chuyên ngành Mạng máy tính & Truyền thông dữ liệu)  
+🎓 Sinh viên năm 4 – Chuyên ngành Mạng máy tính & Truyền thông dữ liệu
 🏫 Học viện Công nghệ Bưu chính Viễn thông – Cơ sở TP. Hồ Chí Minh  
-🔍 Đang tìm kiếm vị trí **thực tập Phát triển Phần mềm**
+🔍 Đang tìm kiếm vị trí **thực tập**
 
 ---
 
