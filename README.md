@@ -71,5 +71,5 @@ Website xem chiêm tinh học và thần số học, triển khai fullstack trê
 
 ## 📬 Liên hệ
 
-[![Email](https://img.shields.io/badge/Email-goldeneden.work@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:goldeneden.work@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ductai.itvn@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ductai.itvn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
